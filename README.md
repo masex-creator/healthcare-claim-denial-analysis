@@ -15,8 +15,7 @@ Healthcare organizations lose significant revenue and operational time due to de
 ---
 
 ## Dashboard Overview
-
-![Dashboard](images/dashboard.png)
+[View Interactive Tableau Dashboard](https://public.tableau.com/authoring/healthcare_claim_denial_analysis/Dashboard1#1)
 
 ---
 
