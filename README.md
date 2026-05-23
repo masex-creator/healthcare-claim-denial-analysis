@@ -29,6 +29,19 @@ Key SQL techniques used:
 - COUNT aggregation
 - ORDER BY sorting
 
+### Example SQL Query
+
+```sql
+SELECT
+    Insurance_Type,
+    Reason_Code,
+    COUNT(*) AS denied_claims
+FROM healthcare_claims
+WHERE Claim_Status = 'Denied'
+GROUP BY Insurance_Type, Reason_Code
+ORDER BY denied_claims DESC;
+```
+
 ---
 
 ## Key Insights
