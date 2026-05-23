@@ -50,7 +50,3 @@ Key SQL techniques used:
 - Create automated alerts for missing authorization requirements.
 
 ---
-
-## Tableau Dashboard
-
-[View Tableau Dashboard Here](PASTE_TABLEAU_LINK_HERE)
